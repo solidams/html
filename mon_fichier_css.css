@@ -11,6 +11,11 @@
     background-color: yellow;
 }
 
+.red{
+    background-color: tomato;
+
+}
+
 td{
     text-align: center;
 }
