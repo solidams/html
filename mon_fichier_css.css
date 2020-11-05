@@ -16,10 +16,11 @@
 
 }
 
+.blue{
+    background-color: teal;
+}
+
 td{
     text-align: center;
 }
 
-.blue{
-    background-color: teal;
-}
